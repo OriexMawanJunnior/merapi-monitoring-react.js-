@@ -168,4 +168,4 @@ Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE](LICENSE) unt
 
 ## Dukungan
 
-Untuk dukungan, email ke email-anda@example.com atau buat issue di repository ini.
+Untuk dukungan, email ke oriex21001@mail.unpad.ac.id atau buat issue di repository ini.
